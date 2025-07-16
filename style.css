@@ -1,0 +1,27 @@
+textarea::-webkit-scrollbar {
+  height: 8px;
+}
+
+textarea::-webkit-scrollbar-thumb {
+  background: #94a3b8;
+  border-radius: 4px;
+}
+
+textarea:disabled {
+  background-color: #f0f4f8;
+  color: #1e293b;
+  font-weight: 400;
+  font-family: 'Inter', sans-serif;
+  resize: none;
+}
+
+.mistake {
+  background-color: #f87171;
+  color: white;
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+.correct {
+  color: #10b981;
+}
