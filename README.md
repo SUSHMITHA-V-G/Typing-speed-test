@@ -1,8 +1,23 @@
-## 🔗 Live Demo
 
-Check out the live demo here:  
+## 🔗 Live Demo
+Check out the live demo here: 
 👉 [Typing Speed Test](https://SUSHMITHA-V-G.github.io/Typing-speed-test/)
 
+---
 
-<img width="1372" height="817" alt="image" src="https://github.com/user-attachments/assets/faabe877-43ad-4362-8a97-5c35da2f7ec5" />
+## ✨ Features
+
+- 🔤 Real-time typing accuracy feedback  
+- ⏱️ Countdown timer (60 seconds)  
+- 📈 Live WPM (Words Per Minute) & CPM (Characters Per Minute)  
+- 📉 Mistake counter  
+- 🌈 Beautiful UI with TailwindCSS  
+
+---
+
+## 🖼️ Screenshots
+
+<img width="1372" height="817" alt="image" src="https://github.com/user-attachments/assets/c6e89242-1527-40d2-a1a9-67c868d89527" />
+
+
 
